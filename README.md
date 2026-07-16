@@ -16,9 +16,16 @@ imported pandas
   * head(), tail(), sample() for preview
   * Real-world dataset walkthrough
 
-## Filtering Data in Pandas
+## Filtering Data in Pandas     (Contain with "Student Mental Health Data Set")
   * Filter with Logical Conditions: >, <, ==, !=
   * Combine Conditions with & and |
   * Filter Text Columns using .str.contains() and .str.startswith()
   * Reset index after filtering
   * Filter Boolean columns (True / False)
+
+## Handling Missing Data in Pandas    (Contain with "titanic_dataset")
+  * Detecting missing values   (
+  * Dropping missing rows/columns
+  * Filling missing data using mean, median, mode, or custom values
+
+    
