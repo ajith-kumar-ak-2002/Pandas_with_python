@@ -24,7 +24,7 @@ imported pandas
   * Filter Boolean columns (True / False)
 
 ## Handling Missing Data in Pandas    (Contain with "titanic_dataset")
-  * Detecting missing values   (
+  * Detecting missing values   
   * Dropping missing rows/columns
   * Filling missing data using mean, median, mode, or custom values
 
