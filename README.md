@@ -15,3 +15,10 @@ imported pandas
   * read_csv() and read_excel()
   * head(), tail(), sample() for preview
   * Real-world dataset walkthrough
+
+## Filtering Data in Pandas
+  * Filter with Logical Conditions: >, <, ==, !=
+  * Combine Conditions with & and |
+  * Filter Text Columns using .str.contains() and .str.startswith()
+  * Reset index after filtering
+  * Filter Boolean columns (True / False)
