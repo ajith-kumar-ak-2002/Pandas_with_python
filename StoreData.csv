@@ -1,0 +1,101 @@
+Order ID, Customer Name ,order_date,Ship Date,Segment,Region,Quantity,Sales,Profit,Discount,Product Category,Postal Code
+ORD0001,SNEHA PATEL,2024-01-02,2024-02-02,Consumer,North,4,2194.27,465.68,10%,Electronics, 600001 
+ORD0002, Ajith Kumar,2024-01-03,2024-02-03,Consumer, EAST,8,2245.53,-44.92,0.1,Office Supplies, 600001 
+ORD0003,arjun rao,2024-01-04,2024-02-04, corporate ,south ,5,3746.6,95.84,0.05,Furniture,500001
+ORD0004,Rahul Sharma ,2024-01-05,2024-02-05,Consumer,North,10,4259.92,-62.43,0.05,Electronics,500001
+ORD0005, Ajith Kumar,2024-01-06,2024-02-06,Consumer,North,7,3576.96,-14.32,0.05,Electronics,500001
+ORD0006,Kiran Kumar,2024-01-07,2024-02-07,Consumer,South,3,4398.23,666.77,0.1,Furniture,500001
+ORD0007,arjun rao,2024-01-08,2024-02-08, corporate ,south ,five,1248.4,556.8,0.1,Office Supplies, 600001 
+ORD0008, Ajith Kumar,2024-01-09,2024-02-09,consumer, EAST,6,"1,250.50",497.86,10%,Furniture, 600001 
+ORD0009,Kiran Kumar,2024-01-10,2024-02-10,Consumer,south ,10,1175.61,593.41,,Electronics,560001
+ORD0010,Kiran Kumar,2024-01-11,,Corporate, EAST,8,2649.73,341.45,0.05,Office Supplies,500001
+ORD0011,arjun rao,2024-01-12,2024-02-12,Corporate,North,3,4664.49,-43.16,0.1,Furniture,
+ORD0012,Kiran Kumar,2024-01-13,2024-02-13,Corporate,North,2,2071.39,-10.23,0.1,Furniture,560001
+ORD0013,Kiran Kumar,2024-01-14,2024-02-14,Corporate,south ,6,1386.44,472.89,0.05,Office Supplies,500001
+ORD0014,SNEHA PATEL,2024-01-15,2024-02-15, corporate ,south ,five,4782.22,401.33,10%,Electronics,560001
+ORD0015, Ajith Kumar,2024-01-16,2024-02-16,consumer, EAST,10,3846.75,294.59,0.1,Office Supplies,560001
+ORD0016,Kiran Kumar,2024-01-17,2024-02-17, corporate ,South,7,"1,250.50",-55.22,0.05,Electronics,560001
+ORD0017,Kiran Kumar,2024-01-18,2024-02-18, corporate , EAST,1,1530.34,186.49,10%,Office Supplies,560001
+ORD0018,Rahul Sharma ,2024-01-19,2024-02-19,Consumer, EAST,9,3227.3,642.02,,Furniture,500001
+ORD0019,  Priya Reddy,2024-01-20,2024-02-20, corporate , EAST,5,1287.86,163.34,0.05,Office Supplies,500001
+ORD0010,SNEHA PATEL,2024-01-21,, corporate ,south ,5,4727.43,552.63,0.1,Furniture,500001
+ORD0021,Rahul Sharma ,2024-01-22,2024-02-22,Consumer, EAST,five,1338.24,104.13,10%,Furniture, 600001 
+ORD0022,Rahul Sharma ,2024-01-23,2024-02-23,Consumer, EAST,10,1018.75,202.91,10%,Furniture,
+ORD0023,Rahul Sharma ,2024-01-24,2024-02-24,consumer,North,3,2541.05,34.76,0.1,Furniture, 600001 
+ORD0024,arjun rao,2024-01-25,2024-02-25,Consumer,North,3,"1,250.50",315.89,0.05,Office Supplies, 600001 
+ORD0025,SNEHA PATEL,2024-01-26,2024-02-26,consumer,North,3,2509.8,51.51,0.05,Office Supplies,560001
+ORD0026,  Priya Reddy,2024-01-27,2024-02-27,consumer,south ,5,3208.24,107.98,0.05,Office Supplies,500001
+ORD0027,arjun rao,2024-01-28,2024-02-28,consumer, EAST,7,2433.24,16.87,,Office Supplies, 600001 
+ORD0028,  Priya Reddy,2024-01-01,2024-02-01, corporate ,South,five,3268.62,76.58,0.05,Office Supplies,560001
+ORD0029,SNEHA PATEL,2024-01-02,2024-02-02,consumer,South,7,744.99,260.57,0.05,Electronics,500001
+ORD0030,arjun rao,2024-01-03,,Corporate,South,8,2906.49,427.56,10%,Office Supplies, 600001 
+ORD0031,Rahul Sharma ,2024-01-04,2024-02-04,Consumer,North,4,3530.48,62.66,0.1,Electronics,560001
+ORD0032, Ajith Kumar,2024-01-05,2024-02-05,Corporate,North,8,"1,250.50",180.67,0.1,Furniture,500001
+ORD0033,SNEHA PATEL,2024-01-06,2024-02-06, corporate ,South,9,481.2,111.94,0.05,Furniture,
+ORD0034, Ajith Kumar,2024-01-07,2024-02-07,Consumer, EAST,7,1338.81,616.56,10%,Office Supplies,500001
+ORD0035,Kiran Kumar,2024-01-08,2024-02-08,Consumer,South,five,4386.46,203.37,0.05,Electronics, 600001 
+ORD0036,  Priya Reddy,2024-01-09,2024-02-09,Consumer, EAST,6,2913.79,524.41,,Office Supplies, 600001 
+ORD0037,  Priya Reddy,2024-01-10,2024-02-10,Consumer,North,5,4582.23,741.83,10%,Electronics,500001
+ORD0038, Ajith Kumar,2024-01-11,2024-02-11,Consumer,South,7,813.22,414.69,10%,Office Supplies,500001
+ORD0039,  Priya Reddy,2024-01-12,2024-02-12,consumer,North,8,864.28,184.32,10%,Electronics, 600001 
+ORD0010, Ajith Kumar,2024-01-13,,Consumer,South,8,"1,250.50",-83.98,10%,Electronics, 600001 
+ORD0041, Ajith Kumar,2024-01-14,2024-02-14,consumer,South,1,1062.77,355.17,0.1,Furniture, 600001 
+ORD0042,Rahul Sharma ,2024-01-15,2024-02-15,consumer,South,five,3872.38,567.81,0.1,Furniture,560001
+ORD0043,Rahul Sharma ,2024-01-16,2024-02-16, corporate ,North,8,1347.46,765.94,0.1,Office Supplies,560001
+ORD0044,SNEHA PATEL,2024-01-17,2024-02-17,Corporate, EAST,9,3796.73,72.65,0.1,Electronics,
+ORD0045,Rahul Sharma ,2024-01-18,2024-02-18,Consumer,South,4,3575.06,473.7,,Electronics,560001
+ORD0046,  Priya Reddy,2024-01-19,2024-02-19,Consumer,south ,3,718.8,129.8,0.1,Electronics,500001
+ORD0047,Kiran Kumar,2024-01-20,2024-02-20,consumer, EAST,2,4633.33,400.58,0.05,Office Supplies, 600001 
+ORD0048, Ajith Kumar,2024-01-21,2024-02-21,Corporate, EAST,5,"1,250.50",-15.53,0.05,Office Supplies,560001
+ORD0049,arjun rao,2024-01-22,2024-02-22,Corporate,South,five,988.48,28.54,0.1,Office Supplies,500001
+ORD0050,Kiran Kumar,2024-01-23,,Consumer,south ,10,2468.78,546.05,10%,Furniture, 600001 
+ORD0051,arjun rao,2024-01-24,2024-02-24,consumer,South,1,4227.4,57.93,0.05,Furniture,500001
+ORD0052,arjun rao,2024-01-25,2024-02-25, corporate ,North,3,2688.12,422.47,0.1,Office Supplies,560001
+ORD0053,  Priya Reddy,2024-01-26,2024-02-26,consumer,North,5,4569.28,682.92,10%,Furniture,500001
+ORD0054,arjun rao,2024-01-27,2024-02-27,Corporate, EAST,9,3158.04,640.27,,Office Supplies, 600001 
+ORD0055,  Priya Reddy,2024-01-28,2024-02-28, corporate ,South,6,1514.72,339.3,10%,Furniture,
+ORD0056,Kiran Kumar,2024-01-01,2024-02-01,consumer, EAST,five,"1,250.50",232.39,0.05,Office Supplies, 600001 
+ORD0057,SNEHA PATEL,2024-01-02,2024-02-02, corporate ,south ,7,4792.19,684.5,0.05,Office Supplies, 600001 
+ORD0058, Ajith Kumar,2024-01-03,2024-02-03,Corporate,south ,3,2366.68,529.85,0.05,Electronics,500001
+ORD0059,Rahul Sharma ,2024-01-04,2024-02-04, corporate ,south ,9,2296.91,678.12,0.1,Electronics,500001
+ORD0010,Kiran Kumar,2024-01-05,, corporate ,South,2,1326.26,-29.2,0.05,Office Supplies,500001
+ORD0061,Kiran Kumar,2024-01-06,2024-02-06,Corporate,South,7,4392.96,255.33,0.1,Furniture,560001
+ORD0062,SNEHA PATEL,2024-01-07,2024-02-07,Consumer,North,5,2953.87,630.03,10%,Office Supplies, 600001 
+ORD0063,SNEHA PATEL,2024-01-08,2024-02-08,consumer, EAST,five,2029.2,752.64,,Office Supplies, 600001 
+ORD0064,Kiran Kumar,2024-01-09,2024-02-09,Consumer,North,5,"1,250.50",769.25,0.05,Electronics, 600001 
+ORD0065,arjun rao,2024-01-10,2024-02-10, corporate ,North,4,2121.07,705.78,10%,Furniture,560001
+ORD0066,Kiran Kumar,2024-01-11,2024-02-11,consumer,south ,1,1877.14,740.8,0.05,Office Supplies,
+ORD0067,arjun rao,2024-01-12,2024-02-12,Corporate,South,1,2520.05,198.31,10%,Office Supplies,560001
+ORD0068,arjun rao,2024-01-13,2024-02-13,Consumer,south ,9,4083.69,739.11,10%,Electronics, 600001 
+ORD0069,  Priya Reddy,2024-01-14,2024-02-14, corporate ,North,10,1807.88,322.06,0.1,Office Supplies,500001
+ORD0070,SNEHA PATEL,2024-01-15,,consumer,south ,five,730.05,-26.1,10%,Office Supplies,560001
+ORD0071,arjun rao,2024-01-16,2024-02-16,consumer,South,5,1568.27,-9.65,0.05,Office Supplies, 600001 
+ORD0072, Ajith Kumar,2024-01-17,2024-02-17, corporate ,south ,3,"1,250.50",252.79,,Furniture,560001
+ORD0073,Rahul Sharma ,2024-01-18,2024-02-18, corporate ,North,9,1603.45,709.14,0.05,Office Supplies,500001
+ORD0074,Kiran Kumar,2024-01-19,2024-02-19,consumer,South,5,4158.01,765.31,0.05,Furniture,560001
+ORD0075,Rahul Sharma ,2024-01-20,2024-02-20,Consumer,south ,8,2296.89,744.26,0.1,Furniture,560001
+ORD0076, Ajith Kumar,2024-01-21,2024-02-21,consumer,North,1,1597.37,69.21,0.1,Electronics, 600001 
+ORD0077,Rahul Sharma ,2024-01-22,2024-02-22,consumer, EAST,five,1807.96,287.66,0.1,Office Supplies,
+ORD0078,Rahul Sharma ,2024-01-23,2024-02-23,Corporate,North,1,4849.45,378.36,10%,Electronics, 600001 
+ORD0079,  Priya Reddy,2024-01-24,2024-02-24,consumer, EAST,8,4918.82,769.65,10%,Electronics, 600001 
+ORD0080,Rahul Sharma ,2024-01-25,,Corporate, EAST,5,"1,250.50",314.64,0.05,Furniture,560001
+ORD0081,  Priya Reddy,2024-01-26,2024-02-26,Corporate, EAST,4,3165.43,731.42,,Furniture,500001
+ORD0082,Rahul Sharma ,2024-01-27,2024-02-27,consumer,south ,1,1805.87,160.64,0.1,Electronics,500001
+ORD0083,  Priya Reddy,2024-01-28,2024-02-28,consumer,South,6,310.22,779.53,10%,Electronics,500001
+ORD0084,Rahul Sharma ,2024-01-01,2024-02-01,consumer,South,five,2135.71,249.49,10%,Office Supplies, 600001 
+ORD0085,SNEHA PATEL,2024-01-02,2024-02-02,Corporate, EAST,5,938.61,139.83,10%,Furniture, 600001 
+ORD0086,  Priya Reddy,2024-01-03,2024-02-03,Consumer,North,8,4399.98,37.48,10%,Furniture,500001
+ORD0087,Kiran Kumar,2024-01-04,2024-02-04,Corporate,North,7,4197.08,-15.24,0.05,Furniture, 600001 
+ORD0088,arjun rao,2024-01-05,2024-02-05, corporate ,south ,3,"1,250.50",637.82,10%,Office Supplies,
+ORD0089,Kiran Kumar,2024-01-06,2024-02-06,consumer,South,10,3792.33,-0.98,0.05,Electronics,560001
+ORD0090,SNEHA PATEL,2024-01-07,, corporate ,South,8,3927.41,194.26,,Electronics, 600001 
+ORD0091,Rahul Sharma ,2024-01-08,2024-02-08, corporate ,North,five,3328.16,283.19,0.1,Office Supplies,500001
+ORD0092,  Priya Reddy,2024-01-09,2024-02-09,Consumer, EAST,1,4773.15,562.49,10%,Office Supplies,560001
+ORD0093,Kiran Kumar,2024-01-10,2024-02-10,consumer,North,4,2916.32,-20.39,10%,Office Supplies, 600001 
+ORD0094,Rahul Sharma ,2024-01-11,2024-02-11,Consumer,South,2,1646.59,547.03,10%,Office Supplies,500001
+ORD0095,Rahul Sharma ,2024-01-12,2024-02-12,consumer,North,7,2689.78,313.07,0.1,Furniture,560001
+ORD0096,Rahul Sharma ,2024-01-13,2024-02-13,Consumer,South,9,"1,250.50",-9.83,0.1,Electronics,560001
+ORD0097, Ajith Kumar,2024-01-14,2024-02-14,Consumer,North,5,3126.76,89.27,10%,Office Supplies,560001
+ORD0098,Kiran Kumar,2024-01-15,2024-02-15, corporate ,south ,five,196.95,597.8,0.05,Electronics,500001
+ORD0099,arjun rao,2024-01-16,2024-02-16,Consumer,North,7,2835.48,-88.1,,Office Supplies,
+ORD0100,  Priya Reddy,2024-01-17,, corporate ,South,9,1761.83,465.55,10%,Furniture,500001
