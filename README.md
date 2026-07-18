@@ -28,4 +28,9 @@ imported pandas
   * Dropping missing rows/columns
   * Filling missing data using mean, median, mode, or custom values
 
-    
+## Data Cleaning & Type Conversion in Pandas  (Contain with "Store Dataset")
+  * Replacing missing or incorrect values
+  * Renaming confusing column names
+  * Converting column data types (e.g., strings to numbers)
+  * Removing duplicate rows
+  * Trimming whitespace and fixing inconsistent text
