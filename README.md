@@ -35,11 +35,11 @@ imported pandas
   * Removing duplicate rows
   * Trimming whitespace and fixing inconsistent text
 
-## Applying Functions to Data
+## Applying Functions to Data                 (Contain With " StudentDataset.csv ")
  ### Why is this important? Functions help us transform raw data into meaningful insights - like converting grades to letter grades, categorizing sales performance, or calculating custom metrics!
   * apply() for column/row-wise operations
       * What is apply()? It applies a function to each element in a column or row.
-        # Basic Syntax:
+        ## Basic Syntax:
           * df['column'].apply(function) - applies to each element in a column
           * df.apply(function, axis=1) - applies to each row
           * df.apply(function, axis=0) - applies to each column
