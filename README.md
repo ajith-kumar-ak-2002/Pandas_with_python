@@ -43,9 +43,9 @@ imported pandas
           * df['column'].apply(function) - applies to each element in a column
           * df.apply(function, axis=1) - applies to each row
           * df.apply(function, axis=0) - applies to each column
-  * map() and lambda functions
-        # What is lambda? A lambda function is a small, one-line function that doesn't need a name.
-          * Syntax: lambda x: expression
-        # What is map()? Similar to apply() but works great with dictionaries for value mapping.
+  * map() and lambda functions.
+    # What is lambda? A lambda function is a small, one-line function that doesn't need a name.
+       * Syntax: lambda x: expression
+     # What is map()? Similar to apply() but works great with dictionaries for value mapping.
   * Creating new columns from logic
   * Use cases: grading, categorization
