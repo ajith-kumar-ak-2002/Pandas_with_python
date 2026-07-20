@@ -51,6 +51,8 @@ imported pandas
   * Use cases: grading, categorization
 
 ## Sorting Data in Pandas
-   * sort_values()       We use sort_values() to sort data by a specific column. ( df.sort_values(by='column_name', ascending=True or False) )
-   * Sorting by Index    Use sort_index() when you want to sort by row numbers or labels.
-        ----- Real-Life Use Case – Ranking Students      --- calculate each student’s total score and then sort them to rank.
+   * sort_values()
+                     We use sort_values() to sort data by a specific column. ( df.sort_values(by='column_name', ascending=True or False) )
+   * Sorting by Index
+                     Use sort_index() when you want to sort by row numbers or labels.
+        ----- Real-Life Use Case – Ranking Students    ( calculate each student’s total score and then sort them to rank. )
