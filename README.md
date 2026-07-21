@@ -57,3 +57,8 @@ imported pandas
    * Sorting by Index
    * Use sort_index() when you want to sort by row numbers or labels.
    *  ----- Real-Life Use Case – Ranking Students    ( calculate each student’s total score and then sort them to rank. )
+
+# Grouping & aggregating in pandas
+   * group and aggregate data using pandas functions like ---
+   * groupby()
+   * mean() , sum() , count() , max() , min() and agg()
