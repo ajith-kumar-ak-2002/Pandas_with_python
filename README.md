@@ -35,8 +35,8 @@ imported pandas
   * Removing duplicate rows
   * Trimming whitespace and fixing inconsistent text
 
-## Applying Functions to Data                 (Contain With " StudentDataset.csv ")
- # Why is this important? Functions help us transform raw data into meaningful insights - like converting grades to letter grades, categorizing sales performance, or calculating custom metrics!
+# Applying Functions to Data                 (Contain With " StudentDataset.csv ")
+ ## Why is this important? Functions help us transform raw data into meaningful insights - like converting grades to letter grades, categorizing sales performance, or calculating custom metrics!
   * apply() for column/row-wise operations
   * What is apply()? It applies a function to each element in a column or row.
   * Basic Syntax:
@@ -44,14 +44,14 @@ imported pandas
   * df.apply(function, axis=1) - applies to each row
   * df.apply(function, axis=0) - applies to each column.
     
-## map() and lambda functions.
- # What is lambda? A lambda function is a small, one-line function that doesn't need a name.
+# map() and lambda functions.
+ ## What is lambda? A lambda function is a small, one-line function that doesn't need a name.
    * Syntax: lambda x: expression
- # What is map()? Similar to apply() but works great with dictionaries for value mapping.
+ ## What is map()? Similar to apply() but works great with dictionaries for value mapping.
   * Creating new columns from logic
   * Use cases: grading, categorization
 
-## Sorting Data in Pandas
+# Sorting Data in Pandas
    * sort_values()
    * We use sort_values() to sort data by a specific column. ( df.sort_values(by='column_name', ascending=True or False) )
    * Sorting by Index
