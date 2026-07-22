@@ -62,3 +62,8 @@ imported pandas
    * group and aggregate data using pandas functions like ---
    * groupby()
    * mean() , sum() , count() , max() , min() and agg()
+
+# Merging and Joining DataFrames
+   * How to combine multiple DataFrames using merge() and concat()
+   * Different types of joins: inner, outer, left, right
+   * Merging using one or multiple columns
