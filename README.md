@@ -67,3 +67,20 @@ imported pandas
    * How to combine multiple DataFrames using merge() and concat()
    * Different types of joins: inner, outer, left, right
    * Merging using one or multiple columns
+     
+# Final Project (IPL Data Analysis)
+  ## Project Goal
+   * The goal of this project is to analyze IPL (Indian Premier League) matches dataset to uncover trends, patterns, and insights.
+   * We will use NumPy & Pandas for data analysis and generate meaningful insights about teams, toss decisions, venues, and players.
+   * This is a beginner-friendly project without machine learning but gives a complete real-world sports analytics experience.
+ ## Key Insights & Conclusion
+   * Matches per Season: IPL has grown across seasons with varying number of matches.
+   * Most Successful Teams: Mumbai Indians and Chennai Super Kings have the highest wins overall.
+   * Player of the Match: Legends like AB de Villiers, MS Dhoni, and Chris Gayle have won the most awards.
+   * No Result Matches: A few matches ended without results due to rain.
+   * Toss Impact: Winning the toss gives a slight advantage but is not a guarantee of winning.
+   * Venues: Some stadiums like Wankhede and Eden Gardens host maximum matches and show home team dominance.
+   * Margins: IPL has seen nail-biting close wins as well as massive victories.
+   * D/L Method: Rarely used but important in rain-affected matches.
+   * Final Winners: Mumbai Indians and CSK dominate IPL finals historically.
+   * This project shows that even with just Pandas and Numpy, we can extract powerful insights from a sports dataset.
