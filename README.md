@@ -68,7 +68,7 @@ imported pandas
    * Different types of joins: inner, outer, left, right
    * Merging using one or multiple columns
      
-# Final Project (IPL Data Analysis)
+# Final Project (IPL Data Analysis) included NumPy and Pandas
   ## Project Goal
    * The goal of this project is to analyze IPL (Indian Premier League) matches dataset to uncover trends, patterns, and insights.
    * We will use NumPy & Pandas for data analysis and generate meaningful insights about teams, toss decisions, venues, and players.
